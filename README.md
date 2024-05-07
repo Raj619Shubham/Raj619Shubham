@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Covid-19 Tracker](https://rashucovidtracker.netlify.app/)**
+- 🔭 I’m currently working on **Hylobiz,Bangalore**
 
 - 🌱 I’m currently working as a Backend Developer in GO language
 
